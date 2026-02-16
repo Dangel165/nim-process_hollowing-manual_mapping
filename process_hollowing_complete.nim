@@ -1,4 +1,4 @@
-# Process Hollowing - Complete Implementation
+# Process Hollowing 
 
 import nigui, os, strutils, times, strformat
 import winim/lean

@@ -1,4 +1,4 @@
-# 🔬 nim-process_hollowing-manual_mapping
+# 🔬 nim process_hollowing,manual_mapping
 
 ## 🎯 Nim 언어로 구현
 
@@ -314,5 +314,6 @@ nimble install winim
 - 허가 없이 다른 시스템에 사용하는 것은 불법입니다
 - 불법적인 사용에 대한 모든 책임은 사용자에게 있습니다
 - 자신의 시스템이나 허가받은 환경에서만 사용하세요
+
 
 
